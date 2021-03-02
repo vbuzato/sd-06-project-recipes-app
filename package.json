@@ -1,6 +1,5 @@
 {
   "name": "recipes-app-test",
-  "homepage": "https://vbuzato.github.io/sd-06-project-recipes-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -30,9 +29,7 @@
     "test": "react-scripts test",
     "test-coverage": "react-scripts test --coverage --watchAll=false",
     "eject": "react-scripts eject",
-    "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js,.jsx",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js,.jsx"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -60,7 +57,6 @@
     "eslint-plugin-react": "^7.21.5",
     "eslint-plugin-react-hooks": "^4.2.0",
     "fs-extra": "^9.0.1",
-    "gh-pages": "^3.1.0",
     "mocha": "^8.0.1",
     "mochawesome": "^6.1.1",
     "mochawesome-merge": "^4.1.0",
