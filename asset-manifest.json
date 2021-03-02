@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/sd-06-project-recipes-app/static/css/main.6be78cb8.chunk.css",
+    "main.js": "/sd-06-project-recipes-app/static/js/main.ac17edeb.chunk.js",
+    "main.js.map": "/sd-06-project-recipes-app/static/js/main.ac17edeb.chunk.js.map",
+    "runtime-main.js": "/sd-06-project-recipes-app/static/js/runtime-main.d10a7bcc.js",
+    "runtime-main.js.map": "/sd-06-project-recipes-app/static/js/runtime-main.d10a7bcc.js.map",
+    "static/js/2.ec6833e8.chunk.js": "/sd-06-project-recipes-app/static/js/2.ec6833e8.chunk.js",
+    "static/js/2.ec6833e8.chunk.js.map": "/sd-06-project-recipes-app/static/js/2.ec6833e8.chunk.js.map",
+    "index.html": "/sd-06-project-recipes-app/index.html",
+    "precache-manifest.edd19740acd3bb6184ea50e329226278.js": "/sd-06-project-recipes-app/precache-manifest.edd19740acd3bb6184ea50e329226278.js",
+    "service-worker.js": "/sd-06-project-recipes-app/service-worker.js",
+    "static/css/main.6be78cb8.chunk.css.map": "/sd-06-project-recipes-app/static/css/main.6be78cb8.chunk.css.map",
+    "static/js/2.ec6833e8.chunk.js.LICENSE.txt": "/sd-06-project-recipes-app/static/js/2.ec6833e8.chunk.js.LICENSE.txt",
+    "static/media/blackHeartIcon.svg": "/sd-06-project-recipes-app/static/media/blackHeartIcon.b8913346.svg",
+    "static/media/drinkIcon.svg": "/sd-06-project-recipes-app/static/media/drinkIcon.f87c47c3.svg",
+    "static/media/exploreIcon.svg": "/sd-06-project-recipes-app/static/media/exploreIcon.157945ff.svg",
+    "static/media/loader.gif": "/sd-06-project-recipes-app/static/media/loader.38354771.gif",
+    "static/media/mealIcon.svg": "/sd-06-project-recipes-app/static/media/mealIcon.b27ba19e.svg",
+    "static/media/App.css": "/sd-06-project-recipes-app/static/media/mexican-food.3ad22b94.jpg",
+    "static/media/profileIcon.svg": "/sd-06-project-recipes-app/static/media/profileIcon.74e487e5.svg",
+    "static/media/searchIcon.svg": "/sd-06-project-recipes-app/static/media/searchIcon.db812135.svg",
+    "static/media/shareIcon.svg": "/sd-06-project-recipes-app/static/media/shareIcon.06215ed4.svg",
+    "static/media/whiteHeartIcon.svg": "/sd-06-project-recipes-app/static/media/whiteHeartIcon.ea3b6ba8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d10a7bcc.js",
+    "static/js/2.ec6833e8.chunk.js",
+    "static/css/main.6be78cb8.chunk.css",
+    "static/js/main.ac17edeb.chunk.js"
+  ]
+}
